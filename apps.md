@@ -1,12 +1,12 @@
 ## 办公便捷  
 1. InputTip：可以根据鼠标样式，颜色来确定当前是否为中文输入法，自动切换输入法等很多自定义功能， 地址：https://github.com/abgox/InputTip
 2. AltSnap：通过alt键来实现一些快捷功能，切换窗口等 地址：https://github.com/RamonUnch/AltSnap
+3. Flow Launcher   alt + space 快捷方式搜索，可在设置->插件->程序 里添加需要被索引目录
 
 ## 系统管理  
 1. HiBit Uninstaller： 卸载工具，比geek清理的更彻底
 2. windows memary cleaner：  内存释放工具，低内存电脑可用
 3. AutoHotkey：  极其强大的windows指令型脚本语言，功能强大，有学习成本
-4. Flow Launcher   alt + space 快捷方式搜索，可在设置->插件->程序 里添加需要被索引目录
 
 ## 下载  
 1. Transmission：  轻量bt下载工具，需要自己补足一些Tracker节点；节点列表：  
