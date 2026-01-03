@@ -2,6 +2,7 @@
 1. InputTip：可以根据鼠标样式，颜色来确定当前是否为中文输入法，自动切换输入法等很多自定义功能， 地址：https://github.com/abgox/InputTip
 2. AltSnap：通过alt键来实现一些快捷功能，切换窗口等 地址：https://github.com/RamonUnch/AltSnap
 3. Flow Launcher：alt + space 快捷方式搜索，可在设置->插件->程序 里添加需要被索引目录
+4. pot-app：ocr翻译工具，这类工具在windows上效果都比较一般 地址： https://github.com/pot-app/pot-desktop
 
 ## 系统管理  
 1. HiBit Uninstaller： 卸载工具，比geek清理的更彻底
