@@ -6,6 +6,7 @@
 1. HiBit Uninstaller： 卸载工具，比geek清理的更彻底
 2. windows memary cleaner：  内存释放工具，低内存电脑可用
 3. AutoHotkey：  极其强大的windows指令型脚本语言，功能强大，有学习成本
+4. Flow Launcher   alt + space 快捷方式搜索，可在设置->插件->程序 里添加需要被索引目录
 
 ## 下载  
 1. Transmission：  轻量bt下载工具，需要自己补足一些Tracker节点；节点列表：  
