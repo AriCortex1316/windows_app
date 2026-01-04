@@ -22,3 +22,5 @@
 ## Legion
 1. LenovoLegionToolkit：拯救者laptop性能管理工具 地址：https://github.com/XKaguya/LenovoLegionToolkit
                                                旧版：https://github.com/BartoszCichecki/LenovoLegionToolkit(以归档) 
+## Asus
+1. g-helper：华硕laptop性能管理工具 地址：https://github.com/seerge/g-helper
