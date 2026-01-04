@@ -24,3 +24,6 @@
                                                旧版：https://github.com/BartoszCichecki/LenovoLegionToolkit(以归档) 
 ## Asus
 1. g-helper：华硕laptop性能管理工具 地址：https://github.com/seerge/g-helper
+
+## Steam Deck
+1. decky-loader：steam deck插件商店 地址：https://github.com/SteamDeckHomebrew/decky-loader  插件列表：https://plugins.deckbrew.xyz/
