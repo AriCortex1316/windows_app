@@ -15,5 +15,10 @@
                                                         https://github.com/ngosang/trackerslist  
 2. Free Download Manager： 大名鼎鼎的FDM，bt下载体验差，可以通过浏览器扩展实现接管浏览器下载(现在浏览器天天帮你验证下载的文件是否安全)，chrome系列扩展地址：  
                                                                                                                           https://chromewebstore.google.com/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp
+
 ## IDE  
 1. 全家桶key 地址：https://jetbra.in/5d84466e31722979266057664941a71893322460  
+
+## Legion
+1. LenovoLegionToolkit：拯救者laptop性能管理工具 地址：https://github.com/XKaguya/LenovoLegionToolkit
+                                               旧版：https://github.com/BartoszCichecki/LenovoLegionToolkit(以归档) 
