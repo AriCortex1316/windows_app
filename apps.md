@@ -3,6 +3,7 @@
 2. AltSnap：通过alt键来实现一些快捷功能，切换窗口等 地址：https://github.com/RamonUnch/AltSnap
 3. Flow Launcher：alt + space 快捷方式搜索，可在设置->插件->程序 里添加需要被索引目录
 4. pot-app：ocr翻译工具，这类工具在windows上效果都比较一般 地址： https://github.com/pot-app/pot-desktop
+5. star11: win11取消了磁铁，这是一款还算“顺畅”的开始菜单增强功能外带任务栏增强，商业软件需要付钱
 
 ## 系统管理  
 1. HiBit Uninstaller： 卸载工具，比geek清理的更彻底
